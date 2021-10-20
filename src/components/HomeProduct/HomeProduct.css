@@ -1,0 +1,20 @@
+.product{
+    height: 530px;
+    border: 2px solid rgba(204, 201, 201, 0.287);
+    margin: 20px;
+    padding: 10px;
+    border-radius: 25px;
+    background-color: rgba(248, 236, 236, 0.637);
+    width: 350px;
+    
+}
+.product img{
+    display: flex;
+    height: 300px;
+    width: 550px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+    
+   
+}

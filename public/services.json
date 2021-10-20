@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Ultrasonography",
+        "photo": "https://5.imimg.com/data5/KE/KD/GLADMIN-5868926/ultra-sound-scanner-500x500.png",
+        "description": "A procedure that uses high-energy sound waves to  inside the body. Ultrasonography may be used to help diagnose diseases",
+        "id": 1
+    },
+    {
+        "name": "City Scan",
+        "photo": "https://www.howitworksdaily.com/wp-content/uploads/2019/03/IMG_8743_1878EDIT-1024x683.jpg",
+        "description": "It uses a series of X-rays and a computer to produce issues and bones. CT is a painless,  diagnose conditions.",
+        "id": 2
+    },
+    {
+        "name": "Radiotherapy",
+        "photo": "https://lakeland-production-blobs.s3.amazonaws.com/images/default-source/on-page-supportive-images/cancer/varian.jpg?sfvrsn=f96601d_2.jpg",
+        "description": "Radiation therapy  is a cancer treatment that uses high doses of radiation to kill cancer cells and shrink tumors. ",
+        "id": 3
+    },
+    {
+        "name": "Brain Cancer",
+        "photo": "https://imor.org/en/wp-content/uploads/2020/06/6-2.jpg",
+        "description": "Brain cancer is a malignant growth of abnormal brain cells in the brain. Brain cancer can arise from many .",
+        "id": 4
+    },
+    {
+        "name": "Cesarean delivery",
+        "photo": "https://www.popsci.com/uploads/2021/03/18/NCTUUIPRXZDF7H24VL3AYFV4PA.jpg?auto=webp&width=1440&height=1080.1901743265.jpg",
+        "description": "Cesarean delivery (C-section) is a surgical procedure used to deliver a baby through incisions in the .",
+        "id": 5
+    },
+    {
+        "name": "Eye Check-Up",
+        "photo": "https://ichef.bbci.co.uk/news/660/cpsprodpb/B59A/production/_103109464_gettyimages-820980166.jpg",
+        "description": "These can be used when your dry eyes syndrome is mild in nature. Artificial tears, gels and ointments can be  dry eyes.",
+        "id": 6
+    }
+]
