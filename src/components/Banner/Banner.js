@@ -31,7 +31,7 @@ const Banner = () => {
                         <Carousel.Caption>
                             <h2 className="text-danger fw-bold fs-1">Health Care </h2>
                             <h3 className="text-primary fw-bold fs-1" >For Whole Family</h3>
-                            <p className="text-info fw-bold">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                            <p className="text-info fw-bold">Lorem file ipsum dolor sit amet, consectetur adipiscing elit.</p>
                         </Carousel.Caption>
                     </Carousel.Item>
                     <Carousel.Item>
